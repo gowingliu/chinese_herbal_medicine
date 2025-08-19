@@ -42,7 +42,9 @@
   - Python 3.11
   - PyTorch 2.1.0 + cu121    
 
-- **Evaluate Pretrained Models:**
+- **Evaluate Pretrained Models:**  
+训练模型链接: https://pan.baidu.com/s/1e970J6Uwv1ooLqmXb7-8aA?pwd=qapf 提取码: qapf  
+将模型权重保存至user_data当中。  
 ```
 cd code
 # Make sure the script has execute permission
